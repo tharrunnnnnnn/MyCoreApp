@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tharr\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tharr\\Downloads\\MycoreApp(2)\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
       "projectName": "MyCoreApp",
-      "projectPath": "C:\\Users\\Tharr\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+      "projectPath": "C:\\Users\\Tharr\\Downloads\\MycoreApp(2)\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
       "packagesPath": "C:\\Users\\Tharr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tharr\\source\\repos\\MyCoreApp\\MyCoreApp\\obj\\",
+      "outputPath": "C:\\Users\\Tharr\\Downloads\\MycoreApp(2)\\MyCoreApp\\MyCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tharr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
